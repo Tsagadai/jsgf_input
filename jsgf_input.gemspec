@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Christoph Curran"]
   s.email       = ["zombiesstoredhere@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{JSFG input for Rails}
+  s.description = %q{A JSGF (JSpeech Grammar Format) input helper for Rails 3 and above.}
 
   s.rubyforge_project = "jsgf_input"
 
